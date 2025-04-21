@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👩‍💻 Imane Dablaq
 
-<!--
-**imid1805/imid1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specialized in Architecture and Information Security, I am focused on developing strong technical skills in cybersecurity, especially in SOC environments. I am interested in modern security frameworks and best practices to protect critical systems and data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 My Goals
+
+- **Now:** Deepen my knowledge in SOC operations and obtain certifications like Security+ .
+- **Future:** Move into management and possibly pursue an MBA.
+
+---
+
+## 🔧 What I Do
+
+- I develop cybersecurity solutions and secure web applications.
+- I use tools such as  
+  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+  <img src="https://nmap.org/images/sitelogo-nmap.svg" alt="Nmap" width="60"/>
+  ![Web](https://img.shields.io/badge/Web%20Development-222?style=flat&logo=html5&logoColor=white)
+- I regularly analyze networks and scan for vulnerabilities.
+
+---
+
+## 🚀 Looking For
+
+- Projects or teamwork in security
+- Meeting and learning from other cybersecurity professionals
+
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imane-dablaq)
+
+Feel free to connect with me!
