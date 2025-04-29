@@ -3,7 +3,7 @@
 Specialized in Architecture and Information Security, I am focused on developing strong technical skills in cybersecurity, especially in SOC environments. I am interested in modern security frameworks and best practices to protect critical systems and data.
 
 ---
-
+ 
 ## 🌟 My Goals
 
 - **Now:** Deepen my knowledge in SOC operations and obtain certifications like Security+ .
