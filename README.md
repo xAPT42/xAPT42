@@ -1,11 +1,9 @@
-
-
 # 👩‍💻 Imane Dablaq
 
 Specialized in Architecture and Information Security, I am focused on developing strong technical skills in cybersecurity, especially in SOC environments. I am interested in modern security frameworks and best practices to protect critical systems and data.
 
 ---
-
+ 
 ## 🌟 My Goals
 
 - **Now:** Deepen my knowledge in SOC operations and obtain certifications like Security+ .
@@ -22,6 +20,17 @@ Specialized in Architecture and Information Security, I am focused on developing
   ![Web](https://img.shields.io/badge/Web%20Development-222?style=flat&logo=html5&logoColor=white)
 - I regularly analyze networks and scan for vulnerabilities.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io
+---
+
+## 🚀 Looking For
+
+- Projects or teamwork in security
+- Meeting and learning from other cybersecurity professionals
+
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imane-dablaq)
+
+Feel free to connect with me!
