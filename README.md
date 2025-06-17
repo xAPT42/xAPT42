@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Imane+Dablaq+%7C+Cyber+Defense+Engineer;SOC+Analyst+%7C+Blue+Team+Specialist;Defending+Critical+Systems+🔒;Detection+✔+Response+✔+Automation+✔" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/1BdIPQkQeE6b6/giphy.gif" width="40%" alt="cyber defense animation"/>
-</p>
 
 
 
