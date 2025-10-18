@@ -61,7 +61,7 @@ A visual representation of my commitment to consistent learning and contribution
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[VOTRE_NOM_DUTILISATEUR_GITHUB]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[VOTRE_NOM_DUTILISATEUR_GITHUB]&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[VOTRE_NOM_DUTILISATEUR_GITHUB]&theme=radical"/>
 </div>
 
 ---
