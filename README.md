@@ -1,6 +1,11 @@
 # Imane Dablaq 👋
 
-<h3 align="center">Crafting the future of secure and intelligent networks, one line of code at a time.</h3>
+
+<h3 align="center">Architecting resilient networks for a complex world.</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=A0A0A0&center=true&vCenter=true&multiline=true&width=550&height=80&lines=Code+is+my+language;Security+is+my+domain." alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imane-dablaq">
@@ -18,24 +23,24 @@
 
 ### 🧭 My Journey & Vision
 
-Currently in an apprenticeship, I am building a strong foundation in **Network Operations (NetOps)** while diving deep into the fascinating worlds of **Security and Cryptography**.
+My path is one of deep immersion. I am currently building a robust foundation in **Network Operations (NetOps)** while mastering the intricate art of **Security and Cryptography**.
 
-My ultimate goal is to evolve at the crossroads of these fields, specializing in **AI-driven network security (AIOps)** and understanding its strategic impact on business within the modern geopolitical landscape.
+My vision is to operate at the nexus of these disciplines, leading the evolution of **AI-driven network security (AIOps)** and understanding its strategic impact on business in the modern geopolitical landscape.
 
-I'm also deeply fascinated by the potential of **decentralized networks and blockchain** to create more resilient and trustless systems, which I see as the next frontier for network security.
+I am particularly drawn to the challenge of **decentralized networks and blockchain**, not just as a technology, but as a paradigm for creating fundamentally more resilient and trustless systems.
 
-- 🔭 I’m currently working on **a Python script to analyze network logs for suspicious patterns**.
-- 🌱 I’m currently learning **the fundamentals of public key infrastructure (PKI) and exploring encryption algorithms like AES and RSA**.
-- 👯 I’m looking to collaborate on **open-source security tools or network analysis projects**.
-- 🤔 I’m looking for help with **understanding the practical implementation of Zero Trust architectures**.
-- 💬 Ask me about **my journey into cryptography, the basics of network protocols, or my thoughts on quantum-resistant cryptography!**
-- ⚡ Fun fact: **I can troubleshoot a network outage with just a packet capture and a strong coffee.**
+- 🔭 I’m currently engineering **a Python script to analyze network logs for suspicious patterns**.
+- 🌱 I’m deepening my expertise in **public key infrastructure (PKI) and exploring encryption algorithms like AES and RSA**.
+- 👯 I’m looking to collaborate on **open-source security tools and network analysis projects**.
+- 🤔 I’m seeking to understand **the practical implementation of Zero Trust architectures**.
+- 💬 Ask me about **my journey into cryptography, network protocols, or the future of quantum-resistant cryptography!**
+- ⚡ Fun fact: **I find clarity in chaos, whether it's in a packet capture or a complex cryptographic problem.**
 
 ---
 
-### 🚀 My Learning Path & Tech Stack
+### 🚀 My Technical Core
 
-Here are the technologies I'm currently mastering or exploring. My focus is on building a well-rounded skill set.
+Here are the technologies I am mastering to build the future.
 
 #### **🔐 Security & Cryptography**
 ![Cryptography](https://img.shields.io/badge/Cryptography-003B57?style=for-the-badge&logo=cryptography&logoColor=white)
@@ -72,18 +77,15 @@ A visual representation of my commitment to consistent learning and contribution
 
 ---
 
+### 🎯 My Strategic Trajectory
+
+- **Short-term:** Solidify practical skills in network automation and applied cryptography.
+- **Mid-term:** Specialize in leveraging AI/ML for advanced network security and threat intelligence.
+- **Long-term:** Shape the strategic intersection of network security, international business, and technological geopolitics.
 
 ---
 
-### 🎯 My Strategic Goals
-
-- **Short-term:** Solidify my practical skills in network automation and get a hands-on understanding of core cryptographic principles.
-- **Mid-term:** Specialize in applying AI/ML to network security for anomaly detection and threat intelligence.
-- **Long-term:** Transition into a strategic role that bridges advanced network security, international business development, and the geopolitical implications of technology.
-
----
-
-<h3 align="center">Building the future of secure, intelligent, and resilient networks.</h3>
+<h3 align="center">Elegance in complexity. Security through precision.</h3>
 <p align="center">
-  <i>Feel free to connect, especially if you're passionate about security, cryptography, or the future of networks!</i>
+  <i>Feel free to connect if you're passionate about building the future of secure and intelligent systems.</i>
 </p>
