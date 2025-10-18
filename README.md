@@ -71,7 +71,7 @@ A visual representation of my commitment to consistent learning and contribution
 
 A fun animation that visualizes my daily activity on GitHub. Consistency is key!
 
-![snake gif](https://github.com/[VOTRE_NOM_DUTILISATEUR_GITHUB]/[VOTRE_NOM_DUTILISATEUR_GITHUB]/blob/output/github-snake.svg)
+![snake gif](https://xapt42.github.io/xAPT42/github-snake.svg)
 
 ---
 
