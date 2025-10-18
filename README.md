@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Imane Dablaq 👋
 
 <h3 align="center">An aspiring NetOps & Security Specialist, exploring the intersection of networks, cryptography, and AI.</h3>
 
