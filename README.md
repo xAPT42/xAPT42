@@ -67,11 +67,7 @@ A visual representation of my commitment to consistent learning and contribution
 ---
 
 
-### 🐍 The Contribution Snake
 
-A fun animation that visualizes my daily activity on GitHub. Consistency is key!
-
-![snake gif](https://xapt42.github.io/xAPT42/github-snake.svg)
 
 ---
 
