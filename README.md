@@ -3,7 +3,7 @@
 <h3 align="center">An aspiring NetOps & Security Specialist, exploring the intersection of networks, cryptography, and AI.</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/imane-dablaq">
+  <a href="https://www.linkedin.com/in/imane-dablaq">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:dablaqimane@gmail.com">
