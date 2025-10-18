@@ -72,29 +72,6 @@ A visual representation of my commitment to consistent learning and contribution
 
 ---
 
-### 🛠️ Currently Building
-
-This section is a live feed of what I'm working on. My projects are in progress, reflecting my continuous learning journey.
-
-- **🔐 Project 1: Crypto-Explorer**
-  - *Goal:* A simple Python CLI tool to encrypt/decrypt files using AES, helping me understand the practical side of symmetric encryption.
-  - *Tech:* `Python`, `Cryptography Library`
-
-- **🌐 Project 2: Network-Health-Monitor**
-  - *Goal:* A script that pings a list of critical network devices and logs their availability, with a basic alert system.
-  - *Tech:* `Shell Script`, `Cron Jobs`
-
-- **🔗 Project 3: Decentralized Health Check (Concept)**
-  - *Goal:* Exploring how a decentralized oracle network could be used to verify the status of critical infrastructure without a single point of failure.
-  - *Tech:* `Conceptual`, `Ethereum`, `Chainlink`
-
----
-
-### 🐍 The Contribution Snake
-
-A fun animation that visualizes my daily activity on GitHub. Consistency is key!
-
-![snake gif](https://raw.githubusercontent.com/xAPT42/xAPT42/output/github-snake.svg)
 
 ---
 
