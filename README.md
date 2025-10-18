@@ -1,6 +1,5 @@
 # Imane Dablaq 👋
 
-
 <h3 align="center">Architecting resilient networks for a complex world.</h3>
 
 <p align="center">
@@ -18,6 +17,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+<br>
 
 ---
 
@@ -64,16 +65,16 @@ Here are the technologies I am mastering to build the future.
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
----
+<br>
 
 ### 📊 My GitHub Activity
-
-A visual representation of my commitment to consistent learning and contribution.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xAPT42&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xAPT42&theme=radical"/>
 </div>
+
+<br>
 
 ---
 
@@ -83,7 +84,7 @@ A visual representation of my commitment to consistent learning and contribution
 - **Mid-term:** Specialize in leveraging AI/ML for advanced network security and threat intelligence.
 - **Long-term:** Shape the strategic intersection of network security, international business, and technological geopolitics.
 
----
+<br>
 
 <h3 align="center">Elegance in complexity. Security through precision.</h3>
 <p align="center">
