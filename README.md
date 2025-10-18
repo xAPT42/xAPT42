@@ -27,7 +27,6 @@ My ultimate goal is to evolve at the crossroads of these fields, specializing in
 - 👯 I’m looking to collaborate on **open-source security tools or network analysis projects**.
 - 🤔 I’m looking for help with **understanding the practical implementation of Zero Trust architectures**.
 - 💬 Ask me about **my journey into cryptography, the basics of network protocols, or my thoughts on quantum-resistant cryptography!**
-- 📫 How to reach me: **[VOTRE_ADRESSE_EMAIL_ICI] or on LinkedIn.**
 - ⚡ Fun fact: **I think a well-crafted encryption algorithm is as beautiful as a piece of poetry!**
 
 ---
@@ -67,19 +66,6 @@ A visual representation of my commitment to consistent learning and contribution
 
 ---
 
-### 🛠️ Currently Building
-
-This section is a live feed of what I'm working on. My projects are in progress, reflecting my continuous learning journey.
-
-- **🔐 Project 1: Crypto-Explorer**
-  - *Goal:* A simple Python CLI tool to encrypt/decrypt files using AES, helping me understand the practical side of symmetric encryption.
-  - *Tech:* `Python`, `Cryptography Library`
-
-- **🌐 Project 2: Network-Health-Monitor**
-  - *Goal:* A script that pings a list of critical network devices and logs their availability, with a basic alert system.
-  - *Tech:* `Shell Script`, `Cron Jobs`
-
----
 
 ### 🐍 The Contribution Snake
 
