@@ -1,6 +1,6 @@
-# Hi, I'm Imane Dablaq 👋
+# Imane Dablaq 👋
 
-<h3 align="center">An aspiring NetOps & Security Specialist, exploring the intersection of networks, cryptography, and AI.</h3>
+<h3 align="center">Crafting the future of secure and intelligent networks, one line of code at a time.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imane-dablaq">
@@ -22,12 +22,14 @@ Currently in an apprenticeship, I am building a strong foundation in **Network O
 
 My ultimate goal is to evolve at the crossroads of these fields, specializing in **AI-driven network security (AIOps)** and understanding its strategic impact on business within the modern geopolitical landscape.
 
-- 🔭 I’m currently working on **[e.g., a Python script to analyze network logs for suspicious patterns]**.
+I'm also deeply fascinated by the potential of **decentralized networks and blockchain** to create more resilient and trustless systems, which I see as the next frontier for network security.
+
+- 🔭 I’m currently working on **a Python script to analyze network logs for suspicious patterns**.
 - 🌱 I’m currently learning **the fundamentals of public key infrastructure (PKI) and exploring encryption algorithms like AES and RSA**.
 - 👯 I’m looking to collaborate on **open-source security tools or network analysis projects**.
 - 🤔 I’m looking for help with **understanding the practical implementation of Zero Trust architectures**.
 - 💬 Ask me about **my journey into cryptography, the basics of network protocols, or my thoughts on quantum-resistant cryptography!**
-- ⚡ Fun fact: **I think a well-crafted encryption algorithm is as beautiful as a piece of poetry!**
+- ⚡ Fun fact: **I can troubleshoot a network outage with just a packet capture and a strong coffee.**
 
 ---
 
@@ -53,6 +55,10 @@ Here are the technologies I'm currently mastering or exploring. My focus is on b
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+#### **🌐 Decentralized & Blockchain (Future Focus)**
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
 ---
 
 ### 📊 My GitHub Activity
@@ -66,8 +72,29 @@ A visual representation of my commitment to consistent learning and contribution
 
 ---
 
+### 🛠️ Currently Building
 
+This section is a live feed of what I'm working on. My projects are in progress, reflecting my continuous learning journey.
 
+- **🔐 Project 1: Crypto-Explorer**
+  - *Goal:* A simple Python CLI tool to encrypt/decrypt files using AES, helping me understand the practical side of symmetric encryption.
+  - *Tech:* `Python`, `Cryptography Library`
+
+- **🌐 Project 2: Network-Health-Monitor**
+  - *Goal:* A script that pings a list of critical network devices and logs their availability, with a basic alert system.
+  - *Tech:* `Shell Script`, `Cron Jobs`
+
+- **🔗 Project 3: Decentralized Health Check (Concept)**
+  - *Goal:* Exploring how a decentralized oracle network could be used to verify the status of critical infrastructure without a single point of failure.
+  - *Tech:* `Conceptual`, `Ethereum`, `Chainlink`
+
+---
+
+### 🐍 The Contribution Snake
+
+A fun animation that visualizes my daily activity on GitHub. Consistency is key!
+
+![snake gif](https://raw.githubusercontent.com/xAPT42/xAPT42/output/github-snake.svg)
 
 ---
 
