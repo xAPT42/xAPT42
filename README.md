@@ -1,11 +1,6 @@
 # Imane Dablaq 👋
-
-<h3 align="center">Architecting resilient networks for a complex world.</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=A0A0A0&center=true&vCenter=true&multiline=true&width=550&height=80&lines=Code+is+my+language;Security+is+my+domain." alt="Typing SVG" />
-</p>
-
+<p align="center"><i>Architecting resilient networks for a complex world.</i></p>
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/imane-dablaq">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,8 +12,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
-<br>
 
 ---
 
