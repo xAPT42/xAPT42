@@ -1,16 +1,16 @@
-# Hi, I'm IMane Dablaq 👋
+# Hi, I'm [Your Name] 👋
 
 <h3 align="center">An aspiring NetOps & Security Specialist, exploring the intersection of networks, cryptography, and AI.</h3>
 
 <p align="center">
-  <a href="[Your LinkedIn URL]">
+  <a href="[VOTRE_URL_LINKEDIN_ICI]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[Your GitHub URL]">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:[your.email@example.com]">
+  <a href="mailto:[VOTRE_ADRESSE_EMAIL_ICI]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/[VOTRE_NOM_DUTILISATEUR_GITHUB]">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -27,7 +27,7 @@ My ultimate goal is to evolve at the crossroads of these fields, specializing in
 - 👯 I’m looking to collaborate on **open-source security tools or network analysis projects**.
 - 🤔 I’m looking for help with **understanding the practical implementation of Zero Trust architectures**.
 - 💬 Ask me about **my journey into cryptography, the basics of network protocols, or my thoughts on quantum-resistant cryptography!**
-- 📫 How to reach me: **[your.email@example.com] or on LinkedIn.**
+- 📫 How to reach me: **[VOTRE_ADRESSE_EMAIL_ICI] or on LinkedIn.**
 - ⚡ Fun fact: **I think a well-crafted encryption algorithm is as beautiful as a piece of poetry!**
 
 ---
@@ -61,8 +61,8 @@ Here are the technologies I'm currently mastering or exploring. My focus is on b
 A visual representation of my commitment to consistent learning and contribution.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xAPT42&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAPT42&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[VOTRE_NOM_DUTILISATEUR_GITHUB]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[VOTRE_NOM_DUTILISATEUR_GITHUB]&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
@@ -85,7 +85,7 @@ This section is a live feed of what I'm working on. My projects are in progress,
 
 A fun animation that visualizes my daily activity on GitHub. Consistency is key!
 
-![snake gif](https://github.com/xAPT42/xAPT42/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/[VOTRE_NOM_DUTILISATEUR_GITHUB]/[VOTRE_NOM_DUTILISATEUR_GITHUB]/blob/output/github-snake.svg)
 
 ---
 
